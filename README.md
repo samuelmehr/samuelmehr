@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Sam.
+
+More about me at https://mehr.cz. My lab's org page is at https://github.com/themusiclab and you can try out our experiments at https://themusiclab.org.
 
 <!--
 **samuelmehr/samuelmehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
