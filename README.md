@@ -1,6 +1,6 @@
 ### Hi, I'm Sam.
 
-You can find out more about me at https://mehr.cz. All of my team's research articles are available there. Also, my lab's org page is at https://github.com/themusiclab and you can participate in our citizen science experiments at https://themusiclab.org.
+You can find out more about me at https://mehr.nz. All of my team's research articles are available there. Also, my lab's org page is at https://github.com/themusiclab and you can participate in our citizen science experiments at https://themusiclab.org.
 
 <!--
 **samuelmehr/samuelmehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
